@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Mubaraq Abdulrahmon  
 
-<!--
-**mubaraq-star/mubaraq-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Engineer | Node.js | NestJS | MongoDB | PostgreSQL | Docker | AWS**
 
-Here are some ideas to get you started:
+💬 "I don’t just build APIs — I engineer systems that scale, survive, and serve."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Do
+- Build REST APIs & microservices
+- Implement secure authentication (JWT, OAuth2, RBAC)
+- Optimize databases for performance
+- Deploy with Docker, AWS, Kubernetes
+
+## 🚀 Current Projects
+- 🏥 HealthPointer – Telemedicine backend with real-time APIs  
+- 🛒 MicroEcommerceAPI – E-commerce backend with cart & orders  
+- 📚 EMRO-Learning – Education platform backend  
+
+## 📫 Connect
+- [GitHub](https://github.com/mubaraq-star)  
+- [LinkedIn](www.linkedin.com/in/mubaraq-abdulrahmon)  
+- [Email](mailto:mubbyone@gmail.com)  
