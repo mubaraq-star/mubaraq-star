@@ -44,7 +44,7 @@
 
 ## 📫 Connect
 - [GitHub](https://github.com/mubaraq-star)  
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
+- [LinkedIn](www.linkedin.com/in/mubaraq-abdulrahmon)  
 - [Email](mailto:mubbyone@gmail.com)  
 
 ---
