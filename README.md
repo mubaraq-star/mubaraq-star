@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mubaraq Abdulrahmon
 
 🌍 Remote Backend Engineer | Full‑Stack Developer  
-**Node.js • NestJS • PostgreSQL • MongoDB • Docker • AWS**
+**Node.js  • Python • NestJS • PostgreSQL • MongoDB • Docker • AWS**
 
 💬 *“I build resilient backend systems that power healthcare, fintech, and e‑commerce platforms across borders.”*
 
